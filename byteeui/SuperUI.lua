@@ -2,7 +2,7 @@
     ByteRise-UI - Modern Roblox UI Library
     Features: All major elements (Button, Toggle, Slider, Dropdown, Input, Keybind, Colorpicker, Notification, etc.), Key System, Notification System, Theming, and more.
     Theme: Dark, semi-transparent, modern, WindUI-inspired
-    Author: (Your Name)
+    Author: ByteRise
     Usage: See example at the end
 ]]
 
